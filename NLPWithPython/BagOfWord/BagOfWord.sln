@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BagOfWord", "BagOfWord\BagOfWord.pyproj", "{DCFF557F-50E5-4B16-BA52-F6CF777F2A48}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "categoryPredictor", "categoryPredictor\categoryPredictor.pyproj", "{4CD3431F-CF55-4A14-9E10-394E9D852576}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GenderIdentifier", "GenderIdentifier\GenderIdentifier.pyproj", "{B9EED1E1-CD19-4830-9C01-829E3624C22B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sentimenAnalyzer", "sentimenAnalyzer\sentimenAnalyzer.pyproj", "{BD62FC84-7382-4845-9E4D-532AC1C6DA99}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TopicModelingSuingLDA", "TopicModelingSuingLDA\TopicModelingSuingLDA.pyproj", "{32655174-243F-4C19-9421-A1AEC6E50A96}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Handling_time_series_data_with_Pandas", "Handling_time_series_data_with_Pandas\Handling_time_series_data_with_Pandas.pyproj", "{C14FFC3D-686C-4E4E-881F-0141BDC3EC69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFF557F-50E5-4B16-BA52-F6CF777F2A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFF557F-50E5-4B16-BA52-F6CF777F2A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD3431F-CF55-4A14-9E10-394E9D852576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD3431F-CF55-4A14-9E10-394E9D852576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EED1E1-CD19-4830-9C01-829E3624C22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EED1E1-CD19-4830-9C01-829E3624C22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD62FC84-7382-4845-9E4D-532AC1C6DA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD62FC84-7382-4845-9E4D-532AC1C6DA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32655174-243F-4C19-9421-A1AEC6E50A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32655174-243F-4C19-9421-A1AEC6E50A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14FFC3D-686C-4E4E-881F-0141BDC3EC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14FFC3D-686C-4E4E-881F-0141BDC3EC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FFB789C-1FEC-4CDB-B61C-E23C2DE5488D}
+	EndGlobalSection
+EndGlobal

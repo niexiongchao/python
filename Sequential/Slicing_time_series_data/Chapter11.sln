@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Slicing_time_series_data", "Slicing_time_series_data\Slicing_time_series_data.pyproj", "{535D4EFB-9902-4538-B430-F97CCAC04833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535D4EFB-9902-4538-B430-F97CCAC04833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535D4EFB-9902-4538-B430-F97CCAC04833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {085A5BF5-2797-4983-A3DB-66F8B67468C1}
+	EndGlobalSection
+EndGlobal
